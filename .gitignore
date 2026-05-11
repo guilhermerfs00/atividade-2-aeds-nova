@@ -1,0 +1,15 @@
+# Arquivos compilados Java
+*.class
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# Diretório de build
+build/
+out/
+bin/
+
+# VS Code
+.vscode/
